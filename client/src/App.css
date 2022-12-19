@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  /* border:1px solid red; */
+}
+
+
+:root{
+  --header-bg-color: linear-gradient(90.01deg, #000428 0.01%, #004e92 99.99%);
+}
+
+
+.d-flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.d-flex-spaceb {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.gap1{
+  gap: 20px;
+}
